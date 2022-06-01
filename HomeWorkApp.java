@@ -1,3 +1,6 @@
+
+
+
 public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords();
@@ -11,6 +14,9 @@ public class HomeWorkApp {
     }
 
     public static void checkSumSign() {
+        ckSumSign();
+    }
+       
         int a = 6, b = 9, c = a + b;
         if (c >= 0) {
             System.out.println("Сумма положительная");
@@ -20,6 +26,7 @@ public class HomeWorkApp {
         }
 
     public static void printColor() {
+        printColor();
         int value = 54;
 
         if (value <= 0) {
@@ -34,6 +41,7 @@ public class HomeWorkApp {
         }
 
     public static void Numbers() {
+        Numbers();
         int a = 6;
         int b = 26;
 
